@@ -17,7 +17,7 @@ A modern, responsive landing page for a medicine company with smooth animations 
 ## Installation
 1. Clone repo or download it:
 ```
-git clone https://github.com/khdxsohee/medicare-landing-page.git
+git clone https://github.com/farhan-swe/medicare-landing-page.git
 ```
 - Open index.html in browser
 ## Customization
